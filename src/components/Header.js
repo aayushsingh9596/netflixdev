@@ -32,7 +32,7 @@ const Header = () => {
 
       <button className="bg-red-900 text-white w-20 h-8 rounded-lg mr-4" onClick={()=>{
          navigate("/browse");
-        }}>NoHome</button>
+        }}>Home</button>
 
       <button className="bg-red-900 text-white w-24 h-8 rounded-lg mr-4" onClick={()=>{
          navigate("/playlistPage");
