@@ -9,13 +9,13 @@ import { BrowserRouter } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBXtnpBgepKApHiUVEToQnq3CJBNcU2kNE",
-  authDomain: "netflixdev-82df9.firebaseapp.com",
-  projectId: "netflixdev-82df9",
-  storageBucket: "netflixdev-82df9.appspot.com",
-  messagingSenderId: "302146268105",
-  appId: "1:302146268105:web:eb3b3165d2fe32001a1618",
-  measurementId: "G-L5SEPW0XGM"
+  apiKey: "AIzaSyDFT5KG3Hsnpi1BZfpabKYQ1ffWgTluCBs",
+  authDomain: "netflixgpt-a4cff.firebaseapp.com",
+  projectId: "netflixgpt-a4cff",
+  storageBucket: "netflixgpt-a4cff.appspot.com",
+  messagingSenderId: "338963150013",
+  appId: "1:338963150013:web:4a2ed99b70bedd0d7933d4",
+  measurementId: "G-FW15CHTKMH"
 };
 
 // Initialize Firebase
